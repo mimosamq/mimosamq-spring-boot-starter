@@ -1,0 +1,1 @@
+# mimosamq-spring-boot-starter
